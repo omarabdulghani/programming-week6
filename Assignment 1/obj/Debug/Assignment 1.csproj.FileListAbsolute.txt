@@ -1,0 +1,7 @@
+C:\Users\Omar\source\repos\Week 6 Assignments\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Omar\source\repos\Week 6 Assignments\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Omar\source\repos\Week 6 Assignments\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Omar\source\repos\Week 6 Assignments\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\Week 6 Assignments\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Week 6 Assignments\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Omar\source\repos\Week 6 Assignments\Assignment 1\obj\Debug\Assignment 1.pdb
