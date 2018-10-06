@@ -1,0 +1,10 @@
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 6\bin\Debug\Assignment 6.exe
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 6\bin\Debug\Assignment 6.pdb
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 6\obj\Debug\Assignment 6.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 6\obj\Debug\Assignment_6.Form1.resources
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 6\obj\Debug\Assignment_6.Properties.Resources.resources
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 6\obj\Debug\Assignment 6.csproj.GenerateResource.cache
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 6\obj\Debug\Assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 6\obj\Debug\Assignment 6.pdb

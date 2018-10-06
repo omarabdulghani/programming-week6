@@ -1,0 +1,7 @@
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 4\obj\Debug\Assignment 4.csprojAssemblyReference.cache
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 4\obj\Debug\Assignment 4.csproj.CoreCompileInputs.cache
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 4\bin\Debug\Assignment 4.exe.config
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 4\bin\Debug\Assignment 4.exe
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 4\bin\Debug\Assignment 4.pdb
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 4\obj\Debug\Assignment 4.exe
+C:\Users\Omar\source\repos\Week 6 Assignments\programming-week6\Assignment 4\obj\Debug\Assignment 4.pdb
